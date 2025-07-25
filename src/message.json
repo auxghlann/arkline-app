@@ -1,0 +1,82 @@
+[
+  {
+    "sender": "Test JSON",
+    "send_to": "hr@company.com",
+    "subject": "Request for Certificate of Internship",
+    "message": "Hi HR, may I request a certificate of internship for my records?",
+    "urgency": "normal",
+    "date": "2023-10-01T12:00:00Z"
+  },
+  {
+    "sender": "Test JSON",
+    "send_to": "hr@company.com",
+    "subject": "Request for Schedule Adjustment",
+    "message": "Good day, I’d like to request a schedule change due to a class conflict.",
+    "urgency": "normal",
+    "date": "2023-10-02T09:30:00Z"
+  },
+  {
+    "sender": "Test JSON",
+    "send_to": "hr@company.com",
+    "subject": "Need Access to HR Portal",
+    "message": "Hello, I’m unable to log in to the HR portal. Can you assist?",
+    "urgency": "normal",
+    "date": "2023-10-03T15:45:00Z"
+  },
+  {
+    "sender": "Test JSON",
+    "send_to": "hr@company.com",
+    "subject": "ID Card Request",
+    "message": "Hi, I lost my intern ID card and need a replacement.",
+    "urgency": "normal",
+    "date": "2023-10-04T11:20:00Z"
+  },
+  {
+    "sender": "Test JSON",
+    "send_to": "hr@company.com",
+    "subject": "Confirmation of Attendance",
+    "message": "Requesting a signed attendance record for internship validation.",
+    "urgency": "normal",
+    "date": "2023-10-05T08:00:00Z"
+  },
+  {
+    "sender": "Test JSON",
+    "send_to": "hr@company.com",
+    "subject": "Official Email Account Activation",
+    "message": "Kindly assist in activating my intern company email account.",
+    "urgency": "normal",
+    "date": "2023-10-06T10:00:00Z"
+  },
+  {
+    "sender": "Test JSON",
+    "send_to": "hr@company.com",
+    "subject": "Change of Assigned Department",
+    "message": "I’d like to request a change in department assignment due to skills fit.",
+    "urgency": "normal",
+    "date": "2023-10-07T13:00:00Z"
+  },
+  {
+    "sender": "Test JSON",
+    "send_to": "hr@company.com",
+    "subject": "Request for Exit Interview",
+    "message": "When can I schedule my exit interview before the internship ends?",
+    "urgency": "normal",
+    "date": "2023-10-08T16:00:00Z"
+  },
+  {
+    "sender": "Test JSON",
+    "send_to": "hr@company.com",
+    "subject": "System Access Permission",
+    "message": "Requesting permission to access the HR timesheet system.",
+    "urgency": "normal",
+    "date": "2023-10-09T14:30:00Z"
+  },
+  {
+    "sender": "Test JSON",
+    "send_to": "hr@company.com",
+    "subject": "Daily Time Record Clarification",
+    "message": "Hi HR, I noticed a discrepancy in my DTR. Can we verify it?",
+    "urgency": "normal",
+    "date": "2023-10-10T12:00:00Z"
+  }
+]
